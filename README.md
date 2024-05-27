@@ -27,7 +27,7 @@ As you can see, the card works on both desktop and mobile devices. This is very 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nraul17/Frontend-Mentor-QR-Code.git)
+- Solution URL: [Find the solution here--->](https://github.com/nraul17/Frontend-Mentor-QR-Code.git)
 
 ## My process
 
