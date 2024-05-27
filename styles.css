@@ -1,0 +1,54 @@
+html {
+  font-family: 'outfit';
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+  height: 95vh;
+  width: 100%;
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tarjeta {
+  background-color: white;
+  border-radius: 10px;
+  height: 440px;
+  width: 280px;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  margin: 13px 13px 0 13px;
+  border-radius: 10px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 0 15px;
+  text-align: center;
+  color: hsl(220, 15%, 55%);
+  margin: 15px 15px;
+}
+
+h3 {
+font-weight: 700;
+text-align: center;
+margin: 15px 20px;  
+color: hsl(218, 44%, 22%);
+}
+
+
+
+
+.attribution {
+  font-size: 11px; text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
